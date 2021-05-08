@@ -1,6 +1,7 @@
 #include<string.h>
 #include<stdio.h>
 #include<sys/socket.h>
+#include<unistd.h>
 #include<arpa/inet.h> //inet_addr
 
 int main(int argc,char*argv[])
